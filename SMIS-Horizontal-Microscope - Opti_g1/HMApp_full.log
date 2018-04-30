@@ -1,0 +1,399 @@
+2018-04-30 09:52:41,259	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 09:52:41,260	HM App:	(INFO)	:	STEP: discover_and_connect
+2018-04-30 09:52:41,261	HM App:	(INFO)	:		find serial port and connect
+2018-04-30 09:52:41,261	HM App:	(DEBUG)	:		Checking COM1
+2018-04-30 09:52:41,262	HM App:	(DEBUG)	:		Checking COM2
+2018-04-30 09:52:41,262	HM App:	(DEBUG)	:		Checking COM3
+2018-04-30 09:52:41,262	HM App:	(DEBUG)	:		Checking COM4
+2018-04-30 09:52:41,289	HM App:	(DEBUG)	:	Executing serial command: ?ASTAT
+2018-04-30 09:52:41,389	HM App:	(DEBUG)	:		...attempting to connect to COM4: failed
+2018-04-30 09:52:41,389	HM App:	(DEBUG)	:		Checking COM5
+2018-04-30 09:52:41,389	HM App:	(DEBUG)	:		Checking COM6
+2018-04-30 09:52:41,389	HM App:	(DEBUG)	:		Checking COM7
+2018-04-30 09:52:41,389	HM App:	(DEBUG)	:		Checking COM8
+2018-04-30 09:52:41,389	HM App:	(DEBUG)	:		Checking COM9
+2018-04-30 09:52:41,390	HM App:	(DEBUG)	:		Checking COM10
+2018-04-30 09:52:41,390	HM App:	(DEBUG)	:		Checking COM11
+2018-04-30 09:52:41,390	HM App:	(DEBUG)	:		Checking COM12
+2018-04-30 09:52:41,390	HM App:	(DEBUG)	:		Checking COM13
+2018-04-30 09:52:41,390	HM App:	(DEBUG)	:		Checking COM14
+2018-04-30 09:52:41,390	HM App:	(DEBUG)	:		Checking COM15
+2018-04-30 09:52:41,390	HM App:	(DEBUG)	:		Checking COM16
+2018-04-30 09:52:41,390	HM App:	(DEBUG)	:		Checking COM17
+2018-04-30 09:52:41,390	HM App:	(DEBUG)	:		Checking COM18
+2018-04-30 09:52:41,391	HM App:	(DEBUG)	:		Checking COM19
+2018-04-30 09:52:41,391	HM App:	(DEBUG)	:		Checking COM20
+2018-04-30 09:52:41,391	HM App:	(DEBUG)	:		Checking COM21
+2018-04-30 09:52:41,391	HM App:	(DEBUG)	:		Checking COM22
+2018-04-30 09:52:41,391	HM App:	(DEBUG)	:		Checking COM23
+2018-04-30 09:52:41,392	HM App:	(DEBUG)	:		Checking COM24
+2018-04-30 09:52:41,392	HM App:	(DEBUG)	:		Checking COM25
+2018-04-30 09:52:41,392	HM App:	(DEBUG)	:		Checking COM26
+2018-04-30 09:52:41,392	HM App:	(DEBUG)	:		Checking COM27
+2018-04-30 09:52:41,392	HM App:	(DEBUG)	:		Checking COM28
+2018-04-30 09:52:41,392	HM App:	(DEBUG)	:		Checking COM29
+2018-04-30 09:52:41,392	HM App:	(DEBUG)	:		Checking COM30
+2018-04-30 09:52:41,392	HM App:	(DEBUG)	:		Checking COM31
+2018-04-30 09:52:41,393	HM App:	(DEBUG)	:		Checking COM32
+2018-04-30 09:52:41,393	HM App:	(DEBUG)	:		Checking COM33
+2018-04-30 09:52:41,393	HM App:	(DEBUG)	:		Checking COM34
+2018-04-30 09:52:41,393	HM App:	(DEBUG)	:		Checking COM35
+2018-04-30 09:52:41,393	HM App:	(DEBUG)	:		Checking COM36
+2018-04-30 09:52:41,393	HM App:	(DEBUG)	:		Checking COM37
+2018-04-30 09:52:41,393	HM App:	(DEBUG)	:		Checking COM38
+2018-04-30 09:52:41,393	HM App:	(DEBUG)	:		Checking COM39
+2018-04-30 09:52:41,394	HM App:	(DEBUG)	:		Checking COM40
+2018-04-30 09:52:41,394	HM App:	(DEBUG)	:		Checking COM41
+2018-04-30 09:52:41,394	HM App:	(DEBUG)	:		Checking COM42
+2018-04-30 09:52:41,394	HM App:	(DEBUG)	:		Checking COM43
+2018-04-30 09:52:41,394	HM App:	(DEBUG)	:		Checking COM44
+2018-04-30 09:52:41,394	HM App:	(DEBUG)	:		Checking COM45
+2018-04-30 09:52:41,394	HM App:	(DEBUG)	:		Checking COM46
+2018-04-30 09:52:41,395	HM App:	(DEBUG)	:		Checking COM47
+2018-04-30 09:52:41,395	HM App:	(DEBUG)	:		Checking COM48
+2018-04-30 09:52:41,395	HM App:	(DEBUG)	:		Checking COM49
+2018-04-30 09:52:41,395	HM App:	(DEBUG)	:		Checking COM50
+2018-04-30 09:52:41,395	HM App:	(ERROR)	:	*** Connection error, did not find PS90 controller below port<50. Make sure USB cable is connected.
+2018-04-30 09:52:41,395	HM App:	(ERROR)	:	--- Shutting down ---
+2018-04-30 09:55:53,107	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 09:56:06,679	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 09:56:51,071	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 09:57:16,151	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 10:02:23,467	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 10:02:40,128	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 10:07:41,793	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 10:07:41,794	HM App:	(INFO)	:	STEP: setup
+2018-04-30 10:07:41,800	HM App:	(INFO)	:		DAC Position
+2018-04-30 10:07:42,426	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 10:07:45,335	HM App:	(INFO)	:	STEP: main
+2018-04-30 10:07:45,335	HM App:	(INFO)	:		launching main window...
+2018-04-30 10:36:49,289	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 10:36:49,290	HM App:	(INFO)	:	STEP: setup
+2018-04-30 10:36:49,295	HM App:	(INFO)	:		DAC Position
+2018-04-30 10:36:49,582	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 10:36:51,915	HM App:	(INFO)	:	STEP: main
+2018-04-30 10:36:51,915	HM App:	(INFO)	:		launching main window...
+2018-04-30 10:37:53,031	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 10:37:53,032	HM App:	(INFO)	:	STEP: setup
+2018-04-30 10:37:53,037	HM App:	(INFO)	:		DAC Position
+2018-04-30 10:37:53,304	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 10:37:55,639	HM App:	(INFO)	:	STEP: main
+2018-04-30 10:37:55,639	HM App:	(INFO)	:		launching main window...
+2018-04-30 10:38:35,133	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 10:38:35,134	HM App:	(INFO)	:	STEP: setup
+2018-04-30 10:38:35,139	HM App:	(INFO)	:		DAC Position
+2018-04-30 10:38:35,408	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 10:38:37,839	HM App:	(INFO)	:	STEP: main
+2018-04-30 10:38:37,840	HM App:	(INFO)	:		launching main window...
+2018-04-30 10:39:18,555	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 10:39:18,555	HM App:	(INFO)	:	STEP: setup
+2018-04-30 10:39:18,561	HM App:	(INFO)	:		DAC Position
+2018-04-30 10:39:18,834	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 10:39:20,261	HM App:	(INFO)	:	STEP: main
+2018-04-30 10:39:20,262	HM App:	(INFO)	:		launching main window...
+2018-04-30 10:41:55,818	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 10:41:55,818	HM App:	(INFO)	:	STEP: setup
+2018-04-30 10:41:55,824	HM App:	(INFO)	:		DAC Position
+2018-04-30 10:41:56,105	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 10:41:59,723	HM App:	(INFO)	:	STEP: main
+2018-04-30 10:41:59,724	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:14:19,295	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:14:19,296	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:14:19,300	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:14:19,591	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:14:22,234	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:14:22,234	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:16:58,367	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:16:58,367	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:16:58,373	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:16:58,650	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:17:00,331	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:17:00,331	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:17:29,305	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:17:29,305	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:17:29,310	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:17:29,581	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:17:31,888	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:17:31,889	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:18:51,466	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:18:51,467	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:18:51,472	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:18:51,750	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:18:53,254	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:18:53,255	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:19:11,175	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:19:11,175	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:19:11,181	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:19:11,454	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:19:12,310	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:19:12,310	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:19:39,311	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:19:39,312	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:19:39,317	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:19:39,599	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:19:42,720	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:19:42,721	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:21:49,121	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:21:49,122	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:21:49,127	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:21:49,395	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:21:56,397	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:21:56,398	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:22:53,699	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:22:53,700	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:22:53,705	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:22:53,983	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:22:56,731	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:22:56,731	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:23:24,442	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:23:24,443	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:23:24,447	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:23:24,727	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:23:26,437	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:23:26,438	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:24:23,965	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:24:23,966	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:24:23,972	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:24:24,247	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:24:26,150	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:24:26,151	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:24:43,199	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:24:43,200	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:24:43,205	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:24:43,501	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:24:44,526	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:24:44,527	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:29:41,877	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:29:41,878	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:29:41,884	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:29:42,161	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:29:42,996	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:29:42,996	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:30:59,857	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:30:59,857	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:30:59,863	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:31:00,136	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:31:03,864	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:31:03,865	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:32:01,966	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:32:01,967	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:32:01,972	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:32:02,251	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:32:03,247	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:32:03,248	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:32:32,522	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:32:32,522	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:32:32,528	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:32:32,809	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:32:34,244	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:32:34,244	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:32:57,926	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:32:57,927	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:32:57,931	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:32:58,210	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:33:05,704	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:33:05,704	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:33:45,694	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:33:45,694	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:33:45,699	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:33:45,981	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:33:47,035	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:33:47,035	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:34:37,164	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:34:37,165	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:34:37,170	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:34:37,440	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:34:38,588	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:34:38,588	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:35:03,225	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:35:03,226	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:35:03,231	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:35:03,506	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:35:04,323	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:35:04,323	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:36:29,533	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:36:29,534	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:36:29,538	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:36:29,815	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:36:30,765	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:36:30,767	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:37:02,756	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:37:02,757	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:37:02,762	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:37:03,037	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:37:06,078	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:37:06,079	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:42:38,725	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:42:38,726	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:42:38,733	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:42:39,005	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:42:39,938	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:42:39,938	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:54:22,511	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:54:22,512	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:54:22,517	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:54:22,810	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:54:23,945	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:54:23,945	HM App:	(INFO)	:		launching main window...
+2018-04-30 11:57:32,535	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 11:57:32,535	HM App:	(INFO)	:	STEP: setup
+2018-04-30 11:57:32,540	HM App:	(INFO)	:		DAC Position
+2018-04-30 11:57:32,823	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 11:57:35,018	HM App:	(INFO)	:	STEP: main
+2018-04-30 11:57:35,018	HM App:	(INFO)	:		launching main window...
+2018-04-30 12:00:19,380	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 12:00:19,381	HM App:	(INFO)	:	STEP: setup
+2018-04-30 12:00:19,386	HM App:	(INFO)	:		DAC Position
+2018-04-30 12:00:19,659	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 12:00:20,829	HM App:	(INFO)	:	STEP: main
+2018-04-30 12:00:20,830	HM App:	(INFO)	:		launching main window...
+2018-04-30 12:01:30,527	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 12:01:30,528	HM App:	(INFO)	:	STEP: setup
+2018-04-30 12:01:30,534	HM App:	(INFO)	:		DAC Position
+2018-04-30 12:01:30,812	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 12:01:32,225	HM App:	(INFO)	:	STEP: main
+2018-04-30 12:01:32,226	HM App:	(INFO)	:		launching main window...
+2018-04-30 12:02:08,213	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 12:02:08,214	HM App:	(INFO)	:	STEP: setup
+2018-04-30 12:02:08,218	HM App:	(INFO)	:		DAC Position
+2018-04-30 12:02:08,501	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 12:02:09,285	HM App:	(INFO)	:	STEP: main
+2018-04-30 12:02:09,286	HM App:	(INFO)	:		launching main window...
+2018-04-30 12:02:25,238	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 12:02:25,239	HM App:	(INFO)	:	STEP: setup
+2018-04-30 12:02:25,244	HM App:	(INFO)	:		DAC Position
+2018-04-30 12:02:25,519	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 12:02:26,221	HM App:	(INFO)	:	STEP: main
+2018-04-30 12:02:26,221	HM App:	(INFO)	:		launching main window...
+2018-04-30 12:02:43,331	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 12:02:43,332	HM App:	(INFO)	:	STEP: setup
+2018-04-30 12:02:43,338	HM App:	(INFO)	:		DAC Position
+2018-04-30 12:02:43,614	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 12:02:44,261	HM App:	(INFO)	:	STEP: main
+2018-04-30 12:02:44,262	HM App:	(INFO)	:		launching main window...
+2018-04-30 12:02:57,085	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 12:02:57,086	HM App:	(INFO)	:	STEP: setup
+2018-04-30 12:02:57,091	HM App:	(INFO)	:		DAC Position
+2018-04-30 12:02:57,372	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 12:02:59,675	HM App:	(INFO)	:	STEP: main
+2018-04-30 12:02:59,676	HM App:	(INFO)	:		launching main window...
+2018-04-30 12:03:14,602	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 12:03:14,603	HM App:	(INFO)	:	STEP: setup
+2018-04-30 12:03:14,608	HM App:	(INFO)	:		DAC Position
+2018-04-30 12:03:14,882	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 12:03:16,494	HM App:	(INFO)	:	STEP: main
+2018-04-30 12:03:16,495	HM App:	(INFO)	:		launching main window...
+2018-04-30 12:03:45,055	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 12:03:45,056	HM App:	(INFO)	:	STEP: setup
+2018-04-30 12:03:45,061	HM App:	(INFO)	:		DAC Position
+2018-04-30 12:03:45,336	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 12:03:46,178	HM App:	(INFO)	:	STEP: main
+2018-04-30 12:03:46,178	HM App:	(INFO)	:		launching main window...
+2018-04-30 12:04:12,695	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 12:04:12,695	HM App:	(INFO)	:	STEP: setup
+2018-04-30 12:04:12,700	HM App:	(INFO)	:		DAC Position
+2018-04-30 12:04:12,973	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 12:04:13,641	HM App:	(INFO)	:	STEP: main
+2018-04-30 12:04:13,642	HM App:	(INFO)	:		launching main window...
+2018-04-30 12:04:25,751	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 12:04:25,751	HM App:	(INFO)	:	STEP: setup
+2018-04-30 12:04:25,756	HM App:	(INFO)	:		DAC Position
+2018-04-30 12:04:26,028	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 12:04:27,456	HM App:	(INFO)	:	STEP: main
+2018-04-30 12:04:27,457	HM App:	(INFO)	:		launching main window...
+2018-04-30 12:17:44,264	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 12:17:44,265	HM App:	(INFO)	:	STEP: setup
+2018-04-30 12:17:44,270	HM App:	(INFO)	:		DAC Position
+2018-04-30 12:17:44,593	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 12:17:46,284	HM App:	(INFO)	:	STEP: main
+2018-04-30 12:17:46,285	HM App:	(INFO)	:		launching main window...
+2018-04-30 13:10:59,091	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 13:10:59,092	HM App:	(INFO)	:	STEP: setup
+2018-04-30 13:10:59,097	HM App:	(INFO)	:		DAC Position
+2018-04-30 13:10:59,380	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 13:11:00,673	HM App:	(INFO)	:	STEP: main
+2018-04-30 13:11:00,673	HM App:	(INFO)	:		launching main window...
+2018-04-30 14:27:06,081	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 14:27:06,082	HM App:	(INFO)	:	STEP: setup
+2018-04-30 14:27:06,086	HM App:	(INFO)	:		DAC Position
+2018-04-30 14:27:06,370	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 14:27:08,024	HM App:	(INFO)	:	STEP: main
+2018-04-30 14:27:08,024	HM App:	(INFO)	:		launching main window...
+2018-04-30 14:27:49,631	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 14:27:49,631	HM App:	(INFO)	:	STEP: setup
+2018-04-30 14:27:49,636	HM App:	(INFO)	:		DAC Position
+2018-04-30 14:27:49,908	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 14:27:51,098	HM App:	(INFO)	:	STEP: main
+2018-04-30 14:27:51,099	HM App:	(INFO)	:		launching main window...
+2018-04-30 14:28:45,286	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 14:28:45,286	HM App:	(INFO)	:	STEP: setup
+2018-04-30 14:28:45,291	HM App:	(INFO)	:		DAC Position
+2018-04-30 14:28:45,562	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 14:28:47,950	HM App:	(INFO)	:	STEP: main
+2018-04-30 14:28:47,951	HM App:	(INFO)	:		launching main window...
+2018-04-30 14:29:13,864	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 14:29:13,864	HM App:	(INFO)	:	STEP: setup
+2018-04-30 14:29:13,869	HM App:	(INFO)	:		DAC Position
+2018-04-30 14:29:14,144	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 14:29:15,083	HM App:	(INFO)	:	STEP: main
+2018-04-30 14:29:15,083	HM App:	(INFO)	:		launching main window...
+2018-04-30 14:30:28,175	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 14:30:28,176	HM App:	(INFO)	:	STEP: setup
+2018-04-30 14:30:28,180	HM App:	(INFO)	:		DAC Position
+2018-04-30 14:30:28,462	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 14:30:29,384	HM App:	(INFO)	:	STEP: main
+2018-04-30 14:30:29,385	HM App:	(INFO)	:		launching main window...
+2018-04-30 14:31:07,404	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 14:31:07,405	HM App:	(INFO)	:	STEP: setup
+2018-04-30 14:31:07,410	HM App:	(INFO)	:		DAC Position
+2018-04-30 14:31:07,681	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 14:31:08,495	HM App:	(INFO)	:	STEP: main
+2018-04-30 14:31:08,496	HM App:	(INFO)	:		launching main window...
+2018-04-30 14:34:11,372	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 14:34:11,372	HM App:	(INFO)	:	STEP: setup
+2018-04-30 14:34:11,378	HM App:	(INFO)	:		DAC Position
+2018-04-30 14:34:11,648	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 14:34:14,002	HM App:	(INFO)	:	STEP: main
+2018-04-30 14:34:14,003	HM App:	(INFO)	:		launching main window...
+2018-04-30 14:40:12,722	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 14:40:12,723	HM App:	(INFO)	:	STEP: setup
+2018-04-30 14:40:12,729	HM App:	(INFO)	:		DAC Position
+2018-04-30 14:40:13,053	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 14:40:13,946	HM App:	(INFO)	:	STEP: main
+2018-04-30 14:40:13,946	HM App:	(INFO)	:		launching main window...
+2018-04-30 14:41:50,255	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 14:41:50,255	HM App:	(INFO)	:	STEP: setup
+2018-04-30 14:41:50,261	HM App:	(INFO)	:		DAC Position
+2018-04-30 14:41:50,968	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 14:41:52,392	HM App:	(INFO)	:	STEP: main
+2018-04-30 14:41:52,392	HM App:	(INFO)	:		launching main window...
+2018-04-30 14:42:32,946	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 14:42:32,947	HM App:	(INFO)	:	STEP: setup
+2018-04-30 14:42:32,951	HM App:	(INFO)	:		DAC Position
+2018-04-30 14:42:33,229	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 14:42:34,607	HM App:	(INFO)	:	STEP: main
+2018-04-30 14:42:34,608	HM App:	(INFO)	:		launching main window...
+2018-04-30 14:42:55,215	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 14:42:55,216	HM App:	(INFO)	:	STEP: setup
+2018-04-30 14:42:55,221	HM App:	(INFO)	:		DAC Position
+2018-04-30 14:42:55,497	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 14:42:56,241	HM App:	(INFO)	:	STEP: main
+2018-04-30 14:42:56,241	HM App:	(INFO)	:		launching main window...
+2018-04-30 14:43:20,271	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 14:43:20,272	HM App:	(INFO)	:	STEP: setup
+2018-04-30 14:43:20,277	HM App:	(INFO)	:		DAC Position
+2018-04-30 14:43:20,562	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 14:43:21,688	HM App:	(INFO)	:	STEP: main
+2018-04-30 14:43:21,689	HM App:	(INFO)	:		launching main window...
+2018-04-30 14:43:36,347	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 14:43:36,348	HM App:	(INFO)	:	STEP: setup
+2018-04-30 14:43:36,354	HM App:	(INFO)	:		DAC Position
+2018-04-30 14:43:36,771	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 14:43:38,382	HM App:	(INFO)	:	STEP: main
+2018-04-30 14:43:38,382	HM App:	(INFO)	:		launching main window...
+2018-04-30 14:44:39,172	HM App:	(INFO)	:	--- Starting Application ---
+2018-04-30 14:44:39,173	HM App:	(INFO)	:	STEP: setup
+2018-04-30 14:44:39,178	HM App:	(INFO)	:		DAC Position
+2018-04-30 14:44:39,459	HM App:	(INFO)	:		Optical Arrangement
+2018-04-30 14:44:41,407	HM App:	(INFO)	:	STEP: main
+2018-04-30 14:44:41,407	HM App:	(INFO)	:		launching main window...
